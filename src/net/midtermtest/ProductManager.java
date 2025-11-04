@@ -5,6 +5,7 @@ public class ProductManager {
         System.out.println("This is a product manager.");
     }
 
+    // Calculates discount.
     public double calculateDiscount() {
         return discount;
     }
